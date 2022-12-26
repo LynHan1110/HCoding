@@ -1,0 +1,8 @@
+{
+  "name": "hcoding-beta",
+  "version": "1.0.0",
+  "description": "H Coding in Website",
+  "main": "application_server.js",
+  "author": "Lyn Han, Hyojun Jo, 홍44",
+  "license": "MIT"
+}

@@ -1,0 +1,35 @@
+/*H Coding Main CSS*/
+#header{
+  width:100%;  /* 부모 요소의 너비와 똑같게 */
+  height:50px;  /* 헤더의 높이 */
+  background-color:rgb(247, 238, 241);
+  color: white;
+  text-align: center;
+}
+
+#footer {
+  width:100%;  /* 부모 요소의 너비와 똑같게  */
+  height:55px;  /* 푸터의 높이 */
+  background-color:rgb(247, 238, 241);
+  clear:left;	
+  text-align: center;	/* 플로팅 해제 */
+  vertical-align: center;
+}
+
+button{
+  border: 10px solid #ef306aff;
+  border-radius: 10px;
+  background-color: #ef306aff;
+  font-size: 0.4rem;
+  color: #fff;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+} /*하이퍼링크 파란색 -> 검정색 밑줄 X*/
+
+body {
+text-align: center;
+}
